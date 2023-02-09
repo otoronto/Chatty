@@ -1,0 +1,31 @@
+[{
+    "message_id":"1",
+    "text":"text-1 lorem ipsum lorem ipsum",
+    "timestamp":234324325231,
+    "sender":"otoronto"
+},
+{
+    "message_id":"1",
+    "text":"text-1 lorem selam lorem harika",
+    "timestamp":234324325231,
+    "sender":"emre"
+},
+{
+    "message_id":"1",
+    "text":"üthiş-1 lorem ipsum lorem ipsum",
+    "timestamp":234324325231,
+    "sender":"tolga"
+},
+{
+    "message_id":"1",
+    "text":"fena-1 lorem ipsum lorem ipsum",
+    "timestamp":234324325231,
+    "sender":"alperen"
+},
+{
+    "message_id":"1",
+    "text":"bencede kadıköy çok iyi-1 lorem ipsum lorem ipsum",
+    "timestamp":234324325231,
+    "sender":"cem"
+}
+]
